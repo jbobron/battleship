@@ -1,11 +1,5 @@
-Simple React, webpack boilerplate
+Battleship
 ====================================
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/yefim/simple-react-webpack-boilerplate.svg)](https://greenkeeper.io/)
-
-It doesn't get much simpler than this. Spin up your front-end environment with ease.
-
-Kept up to date by yours truly so you can always use the latest and greatest.
 
 ## Setup
 
@@ -31,8 +25,3 @@ $ tree --charset unicode
 `-- webpack.config.js
 ````
 
-Yep, that's it.
-
-## Contributors
-
-* [Yefim Vedernikoff](https://twitter.com/yefim)
