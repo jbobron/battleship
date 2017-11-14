@@ -9,5 +9,6 @@ Battleship
 
 * `open index.html`
 
-![BattleShip](/img.jpg?raw=true "Battleship")
+![BattleShip](http://img.jpg? "Battleship")
+
 
